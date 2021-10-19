@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://pabloroses09.github.io/Responsive-Web/sitemap.xml
+Sitemap: https://pabloroses09.github.io/sitemap.xml
